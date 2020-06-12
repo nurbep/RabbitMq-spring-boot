@@ -1,0 +1,4 @@
+com\example\RabbitMqprojectproducer\ProducerData.class
+com\example\RabbitMqprojectproducer\ApiController.class
+com\example\RabbitMqprojectproducer\MessageQueueConfig.class
+com\example\RabbitMqprojectproducer\RabbitMqProjectProducerApplication.class
